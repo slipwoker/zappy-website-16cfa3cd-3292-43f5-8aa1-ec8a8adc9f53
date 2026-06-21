@@ -1,0 +1,108 @@
+# ממלכת הסקוושים, והסליים של אנאל — Generative Engine Optimization Map
+
+> A fun and playful business focused on squishies and slimes — tactile, colorful, and sensory toys/collectibles that appeal to kids and hobbyists. The brand likely carries a vibrant, youthful, and creative energy centered around satisfying textures, bright colors, and the joy of squishy and stretchy sensations.
+
+---
+
+## Pages
+
+### בית
+https://-16cfa3cd.zappy5.app
+צללו לעולם קסום של סקוושים רכים, סליים צבעוניים וצעצועי אספנות וינטג&#39; למכירה. החוויה החושית המושלמת לילדים ולאספנים מחכה לכם. היכנסו עכשיו וגלו אושר סחיט!
+
+### אודות
+https://-16cfa3cd.zappy5.app/about
+מסע אל לב הממלכה הצבעונית שלנו: איך הפכנו אהבה לסקוושים וסליים לקהילה שוקקת של משחק חושי ויצירתיות. בואו להכיר את הצוות, הערכים והאנרגיה הממכרת שמאחורי כל מעיכה.
+
+### משחק יצירתי
+https://-16cfa3cd.zappy5.app/creative-play
+שחררו את הדמיון עם מדריכי משחק יצירתי, טריקים מרהיבים בסליים ואתגרי סקוושי מעולמות המדע הבדיוני. הפכו כל מעיכה להרפתקה חושית בלתי נשכחת. התחילו ליצור עוד היום!
+
+### צור קשר
+https://-16cfa3cd.zappy5.app/contact
+מחפשים צעצוע וינטג&#39; ספציפי למכירה או סתם רוצים לשתף אותנו ביצירת הסליים המטורפת שלכם? אנחנו כאן לכל שאלה, בקשה או חיוך. צרו קשר עכשיו והפכו לחלק מהממלכה!
+
+### Products
+https://-16cfa3cd.zappy5.app/products
+המוצרים שלנו - ממלכת הסקוושים, והסליים של אנאל
+
+### Cart
+https://-16cfa3cd.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-16cfa3cd.zappy5.app/checkout
+תשלום
+
+### Login
+https://-16cfa3cd.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-16cfa3cd.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-16cfa3cd.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-16cfa3cd.zappy5.app/product/:slug
+פרטי המוצר - ממלכת הסקוושים, והסליים של אנאל
+
+### Category
+https://-16cfa3cd.zappy5.app/category/:slug
+מוצרים - ממלכת הסקוושים, והסליים של אנאל
+
+### תודה שפנית אלינו
+https://-16cfa3cd.zappy5.app/thank-you
+ממלכת הסקוושים, והסליים של אנאל - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-16cfa3cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-16cfa3cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-16cfa3cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ממלכת הסקוושים, והסליים של אנאל
+A fun and playful business focused on squishies and slimes — tactile, colorful, and sensory toys/collectibles that appeal to kids and hobbyists. The brand likely carries a vibrant, youthful, and creative energy centered around satisfying textures, bright colors, and the joy of squishy and stretchy sensations.
+
+## Services/Products
+- סקוושים
+- סליים
+
+## Target Audience
+- ילדים יצירתיים צעירים
+- הורים לילדים צעירים
+- חובבי עשה זאת בעצמך
+
+## Industry
+Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-16cfa3cd.zappy5.app/sitemap.xml
+- Robots: https://-16cfa3cd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-16cfa3cd.zappy5.app/llms-full.txt
+- Products (JSON): https://-16cfa3cd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-16cfa3cd.zappy5.app/product-feed.xml
