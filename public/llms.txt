@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-16cfa3cd.zappy5.app
+https://example.com
 צללו לעולם קסום של סקוושים רכים, סליים צבעוניים וצעצועי אספנות וינטג&#39; למכירה. החוויה החושית המושלמת לילדים ולאספנים מחכה לכם. היכנסו עכשיו וגלו אושר סחיט!
 
 ### אודות
-https://-16cfa3cd.zappy5.app/about
+https://example.com/about
 מסע אל לב הממלכה הצבעונית שלנו: איך הפכנו אהבה לסקוושים וסליים לקהילה שוקקת של משחק חושי ויצירתיות. בואו להכיר את הצוות, הערכים והאנרגיה הממכרת שמאחורי כל מעיכה.
 
 ### משחק יצירתי
-https://-16cfa3cd.zappy5.app/creative-play
+https://example.com/creative-play
 שחררו את הדמיון עם מדריכי משחק יצירתי, טריקים מרהיבים בסליים ואתגרי סקוושי מעולמות המדע הבדיוני. הפכו כל מעיכה להרפתקה חושית בלתי נשכחת. התחילו ליצור עוד היום!
 
 ### צור קשר
-https://-16cfa3cd.zappy5.app/contact
+https://example.com/contact
 מחפשים צעצוע וינטג&#39; ספציפי למכירה או סתם רוצים לשתף אותנו ביצירת הסליים המטורפת שלכם? אנחנו כאן לכל שאלה, בקשה או חיוך. צרו קשר עכשיו והפכו לחלק מהממלכה!
 
 ### Products
-https://-16cfa3cd.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ממלכת הסקוושים, והסליים של אנאל
 
 ### Cart
-https://-16cfa3cd.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-16cfa3cd.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-16cfa3cd.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-16cfa3cd.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-16cfa3cd.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-16cfa3cd.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ממלכת הסקוושים, והסליים של אנאל
 
 ### Category
-https://-16cfa3cd.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ממלכת הסקוושים, והסליים של אנאל
 
 ### תודה שפנית אלינו
-https://-16cfa3cd.zappy5.app/thank-you
+https://example.com/thank-you
 ממלכת הסקוושים, והסליים של אנאל - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-16cfa3cd.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-16cfa3cd.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-16cfa3cd.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-16cfa3cd.zappy5.app/sitemap.xml
-- Robots: https://-16cfa3cd.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-16cfa3cd.zappy5.app/llms-full.txt
-- Products (JSON): https://-16cfa3cd.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-16cfa3cd.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
