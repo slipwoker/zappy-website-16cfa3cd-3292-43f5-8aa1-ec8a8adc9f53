@@ -4,6 +4,19 @@
     <title>ממלכת הסקוושים, והסליים של אנאל</title>
     <link>https://example.com</link>
     <description>Product feed for ממלכת הסקוושים, והסליים של אנאל</description>
-    <lastBuildDate>Sun, 21 Jun 2026 16:47:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:58:28 GMT</lastBuildDate>
+    <item>
+      <g:id>4d8c6006-738a-4497-bbfd-8ba0ea01ddc8</g:id>
+      <g:title>קליי</g:title>
+      <g:description>קליי</g:description>
+      <g:link>https://example.com/product/klyy-v1jybc</g:link>
+      <g:image_link>https://example.com/assets/product-1782060898841-h07jn.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2.00 ILS</g:price>
+      <g:sale_price>1.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>ממלכת הסקוושים, והסליים של אנאל</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

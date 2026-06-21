@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T16:47:01.987Z",
+  "generated_at": "2026-06-21T16:58:28.235Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "4d8c6006-738a-4497-bbfd-8ba0ea01ddc8",
+      "slug": "klyy-v1jybc",
+      "name": "קליי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 1,
+      "base_price": 2,
+      "sale_price": 1,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782060898841-h07jn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/klyy-v1jybc",
+      "categories": [],
+      "updated_at": "2026-06-21T16:55:13.902Z"
+    }
+  ]
 }
